@@ -1,4 +1,4 @@
-# 📚 Projetos do Omnistacks Rocketseat
+# 📚 Projetos da Omnistacks Rocketseat
 
 Bem-vindo ao meu repositório de estudos! 🚀
 
